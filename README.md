@@ -1,6 +1,8 @@
-# 🥌📰✂ Rock Paper Scissors
+# Rock Paper Scissors
 
-A simple rock paper scissors game made using `HTML`, `CSS`, and `JS`. This was part of the [JS course](https://www.youtube.com/watch?v=SBmSRK3feww) by [SuperSimpleDev](https://www.youtube.com/@SuperSimpleDev) that I took.
+> A simple rock paper scissors game made using HTML, CSS, and JS.
+
+This was part of the [JS course](https://www.youtube.com/watch?v=SBmSRK3feww) by [SuperSimpleDev](https://www.youtube.com/@SuperSimpleDev) that I took.
 
 ## Features
 
@@ -9,5 +11,3 @@ A simple rock paper scissors game made using `HTML`, `CSS`, and `JS`. This was p
 - Reset score button
 - Auto-play mode
 - Keyboard support
-
-[![ISC License](https://img.shields.io/badge/License-ISC-green.svg)](https://choosealicense.com/licenses/isc/)
