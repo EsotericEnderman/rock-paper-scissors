@@ -1,6 +1,3 @@
-// @ts-nocheck
-/* eslint-disable no-use-before-define */
-/* eslint-disable func-style */
 // ! Note: Logical operators have a lower priority than comparison operators and math operators.
 
 let score = JSON.parse(localStorage.getItem("score")) ?? {
@@ -31,7 +28,7 @@ const pickComputerMove = () => {
 };
 
 /**
- * @param {"rock" | "paper" | "scissors"} playerMove
+ * @param {"rock" | "paper" | "scissors"} playerMove The player's move
  * @returns {void}
  */
 const playGame = (playerMove) => {
