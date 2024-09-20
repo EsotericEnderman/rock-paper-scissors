@@ -74,7 +74,7 @@ const playGame = (playerMove) => {
 let intervalID;
 
 const resetScore = () => {
-	score = {wins: 0, losses: 0, ties: 0};
+	score = { wins: 0, losses: 0, ties: 0 };
 	updateScoreElement();
 	localStorage.removeItem("score");
 };
